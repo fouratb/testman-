@@ -1,0 +1,8 @@
+using systeme;
+classe poeme1
+{ 
+static void main()
+{
+console.writeline("le ciel est bleu")
+}
+}
