@@ -4,5 +4,7 @@ classe poeme1
 static void main()
 {
 console.writeline("le ciel est bleu")
+console.writeline("le c")
+
 }
 }
